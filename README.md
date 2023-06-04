@@ -1,9 +1,8 @@
-# A Database of UK Train Stations <!-- omit in toc -->
+# A Database of VIA Rail Canada Train Stations <!-- omit in toc -->
 
-This repository contains several files listing all UK railway stations.
+This repository contains several files listing all VIA Rail Canada stations.
 
-Stations listed are only those that can be queried through the National Rail Darwin API.
-
+This database is a canadianized version of [David Wheaton's UK station]
 The dataset was originally from [Trainline EU's repository](https://github.com/trainline-eu/stations). The sources they used are listed on their GitHub repository.
 
 ## Contents <!-- omit in toc -->

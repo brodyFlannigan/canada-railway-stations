@@ -1,4 +1,4 @@
-declare module "uk-railway-stations" {
+declare module "canada-railway-stations" {
   export interface StationData {
     stationName: string
     lat: number
@@ -12,7 +12,7 @@ declare module "uk-railway-stations" {
   export default AllStationsJSON
 }
 
-declare module "uk-railway-stations/stations.csv" {
+declare module "canada-railway-stations/stations.csv" {
   const AllStationsCSV: string
 
   export default AllStationsCSV
